@@ -8,7 +8,7 @@ from collections import OrderedDict, namedtuple
 class Field(object):
 
     default_values = {
-        'String': 'poooo',
+        'String': 'string_goes_here',
         'Integer': 9263,
         'Float': 83.75,
         'Decimal': 83.7578,
